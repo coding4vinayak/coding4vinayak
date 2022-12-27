@@ -2,7 +2,8 @@
 - 👀 I’m interested in learn coding
 - 🌱 I’m currently learning python, web development 
 - 💞️ I’m looking to collaborate on ai amd data science
-- 📫 How to reach me coding4vinayak@gmail.com
+- 📫 How to reach me coding4vinayak@gmail.com or 
+-       vinayak@coding4vinayak.tech
 - 🌍 website - (http://coding4vinayak.ml)
 
 <!---
