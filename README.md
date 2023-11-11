@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ai amd data science
 - 📫 How to reach me coding4vinayak@gmail.com or 
 -       vinayak@coding4vinayak.tech
-- 🌍 website - (http://coding4vinayak.ml)
+- 🌍 website - (http://coding4vinayak.tech)
 
 <!---
 coding4vinayak/coding4vinayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
