@@ -5,7 +5,7 @@
 - 📫 How to reach me coding4vinayak@gmail.com
 - 🌍 website - (http://coding4vinayak.pythonanywhere.com)
               - (http://machincoding.tech)
-- Me and my cat learning coding [Mycat}(https://text2img.vinayaksss.workers.dev/)
+- Me and my cat learning coding <a>[Mycat}(https://text2img.vinayaksss.workers.dev/)</a>
 <!---
 coding4vinayak/coding4vinayak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
