@@ -1,4 +1,4 @@
-<h1 align="center">hi guys !!! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">hello !!! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
 
 <p align="center">
     <b>Welcome to my page</b><br><br>
@@ -59,136 +59,47 @@
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/coding4vinayak)
 
 
-
-
-
 ### Frameworks & Libraries
-<div align="center">  
-  <!-- Group 1: Languages, Frameworks, and Architectures -->
-  <div>
-    <a href="https://www.python.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />
-    </a>
-    <a href="https://fastapi.tiangolo.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/fastapi.png" alt="FastAPI" height="50" />
-    </a>
-    <a href="https://www.gradio.app/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gradio.png" alt="Gradio" height="50" />
-    </a>
-    <a href="https://streamlit.io/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/streamlit.png" alt="Streamlit" height="50" />
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb.png" alt="MongoDB" height="50" />
-    </a>
-    <a href="https://cassandra.apache.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cassandra.png" alt="Cassandra" height="50" />
-    </a>
-    <a href="https://www.tensorflow.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" />
-    </a>
-    <a href="https://pytorch.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="PyTorch" height="50" />
-    </a>
-    <a href="https://keras.io/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/keras-icon.svg" alt="Keras" height="50" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Convolutional_neural_network" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cnn.png" alt="Convolutional Neural Networks (CNN)" height="50" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Recurrent_neural_network" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rnn.png" alt="Recurrent Neural Networks (RNN)" height="50" />
-    </a>
-    <a href="https://en.wikipedia.org/wiki/Graph_neural_network" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnn.png" alt="Graph Neural Networks (GNN)" height="50" />
-    </a>
-  </div>
-
-</td><td valign="top" width="50%">
-
-
+[![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python)](https://www.python.org/)
+[![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=Flask)](https://flask.palletsprojects.com/)
+[![Django](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=Django)](https://www.djangoproject.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-blue?style=for-the-badge&logo=FastAPI)](https://fastapi.tiangolo.com/)
+[![Gradio](https://img.shields.io/badge/Gradio-purple?style=for-the-badge&logo=Gradio)](https://www.gradio.app/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-black?style=for-the-badge&logo=Streamlit)](https://streamlit.io/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=TensorFlow)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://pytorch.org/)
+[![Keras](https://img.shields.io/badge/Keras-red?style=for-the-badge&logo=Keras)](https://keras.io/)
+[![CNN](https://img.shields.io/badge/CNN-blue?style=for-the-badge&logo=CNN)](https://en.wikipedia.org/wiki/Convolutional_neural_network)
+[![RNN](https://img.shields.io/badge/RNN-blue?style=for-the-badge&logo=RNN)](https://en.wikipedia.org/wiki/Recurrent_neural_network)
+[![GNN](https://img.shields.io/badge/GNN-blue?style=for-the-badge&logo=GNN)](https://en.wikipedia.org/wiki/Graph_neural_network)
 
 ### Deployment & Cloud
 
+[![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=Kubernetes)](https://kubernetes.io/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=Jenkins)](https://www.jenkins.io/)
+[![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=Amazon-AWS)](https://aws.amazon.com/)
+[![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=Microsoft-Azure)](https://azure.microsoft.com/)
+[![Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku)](https://www.heroku.com/)
+[![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge&logo=Google-Cloud)](https://cloud.google.com/)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-purple?style=for-the-badge&logo=huggingface)](https://huggingface.co/)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub)](https://github.com/)
 
-</td><td valign="top" width="50%">
-  <div>
-    <a href="https://www.docker.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />
-    </a>
-    <a href="https://kubernetes.io/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes.png" alt="Kubernetes" height="50" />
-    </a>
-    <a href="https://www.jenkins.io/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins.png" alt="Jenkins" height="50" />
-    </a>
-    <a href="https://aws.amazon.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aws.png" alt="AWS" height="50" />
-    </a>
-    <a href="https://azure.microsoft.com/en-in/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/azure.png" alt="Azure" height="50" />
-    </a>
-    <a href="https://www.heroku.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/heroku.png" alt="Heroku" height="50" />
-    </a>
-    <a href="https://cloud.google.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gcp.png" alt="Google Cloud Platform" height="50" />
-    </a>
-    <a href="https://huggingface.co/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/huggingface.png" alt="Hugging Face" height="50" />
-    </a>
-    <a href="https://github.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github.png" alt="GitHub" height="50" />
-    </a>
-    <a href="https://gitlab.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.png" alt="GitLab" height="50" />
-    </a>
-  </div>
+### Databases
+[![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL)](https://www.postgresql.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-blue?style=for-the-badge&logo=SQLite)](https://www.sqlite.org/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
+[![Cassandra](https://img.shields.io/badge/Cassandra-green?style=for-the-badge&logo=ApacheCassandra)](https://cassandra.apache.org/)
+[![Neo4j](https://img.shields.io/badge/Neo4j-green?style=for-the-badge&logo=Neo4j)](https://neo4j.com/)
+#
 
+## visualization
 
-
-
-</td></tr></table>  
-
-### visualization
-<td>
-  <div>
-    <a href="https://matplotlib.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/matplotlib.png" alt="Matplotlib" height="50" />
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/seaborn.png" alt="Seaborn" height="50" />
-    </a>
-    <a href="https://plotly.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/plotly.png" alt="Plotly" height="50" />
-    </a>
-    <a href="https://www.tableau.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tableau.png" alt="Tableau" height="50" />
-    </a>
-    <a href="https://www.sas.com/en_in/home.html" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sas.png" alt="SAS" height="50" />
-    </a>
-    <a href="https://powerbi.microsoft.com/en-us/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="50" />
-    </a>
-    <a href="https://www.oracle.com/in/analytics/visual-analytics.html" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle.png" alt="Oracle Analytics" height="50" />
-    </a>
-    <a href="https://www.qlik.com/" target="_blank">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/qlik.png" alt="Qlik" height="50" />
-    </a>
-    <a href="https://www.d3js.org/" target="_blank
-    ">
-      <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/d3.png" alt="D3.js" height="50" />
-
-<br/>
-
-<br/>  
-
-</details>
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=Seaborn)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=Plotly)](https://plotly.com/)
+[![Bokeh](https://img.shields.io/badge/Bokeh-blue?style=for-the-badge&logo=Bokeh)](https://bokeh.org/)
+[![Dash](https://img.shields.io/badge/Dash-blue?style=for-the-badge&logo=Dash)](https://dash.plotly.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=Tableau)](https://www.tableau.com/)
+[![PowerBI](https://img.shields.io/badge/PowerBI-blue?style=for-the-badge&logo=PowerBI)](https://powerbi.microsoft.com/)
