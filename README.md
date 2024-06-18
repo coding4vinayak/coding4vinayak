@@ -46,6 +46,10 @@
 [![OpenCV](https://img.shields.io/badge/OpenCV-black?style=for-the-badge&logo=OpenCV)](https://github.com/coding4vinayak)
 [![CNN](https://img.shields.io/badge/CNN-black?style=for-the-badge&logo=CNN)](https://github.com/coding4vinayak)
 [![RNN](https://img.shields.io/badge/RNN-black?style=for-the-badge&logo=RNN)](https://github.com/coding4vinayak)
+[![nlp](https://img.shields.io/badge/nlp-black?style=for-the-badge&logo=nlp)](https://github.com/coding4vinayak)
+[![openCV](https://img.shields.io/badge/openCV-black?style=for-the-badge&logo=nlp)](https://github.com/coding4vinayak)
+
+
 
 ### Technologies & Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/coding4vinayak)
@@ -77,7 +81,6 @@
 
 [![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker)](https://www.docker.com/)
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=Kubernetes)](https://kubernetes.io/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=Jenkins)](https://www.jenkins.io/)
 [![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=Amazon-AWS)](https://aws.amazon.com/)
 [![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=Microsoft-Azure)](https://azure.microsoft.com/)
 [![Heroku](https://img.shields.io/badge/Heroku-purple?style=for-the-badge&logo=Heroku)](https://www.heroku.com/)
@@ -92,9 +95,9 @@
 [![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB)](https://www.mongodb.com/)
 [![Cassandra](https://img.shields.io/badge/Cassandra-green?style=for-the-badge&logo=ApacheCassandra)](https://cassandra.apache.org/)
 [![Neo4j](https://img.shields.io/badge/Neo4j-green?style=for-the-badge&logo=Neo4j)](https://neo4j.com/)
-#
 
-## visualization
+
+### visualization
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=Seaborn)](https://seaborn.pydata.org/)
