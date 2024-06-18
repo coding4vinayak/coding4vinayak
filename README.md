@@ -1,4 +1,4 @@
-<h1 align="center">hello !!! <img src="https://github.com/FujiwaraChoki/FujiwaraChoki/blob/main/assets/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="28px" alt="👋"></h1>
+<h1 align="center">Hi guys!!! </h1>
 
 <p align="center">
     <b>Welcome to my page</b><br><br>
@@ -13,8 +13,6 @@
 
 
 <div align="center">
-<a href="https://github.com/coding4vinayak target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/coding4vinayak target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
@@ -23,10 +21,10 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://vinayakss.vercel.app" target="_blank">
-  <img src="https://img.shields.io/badge/website-%231E77B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/website-%231E77B5.svg?&style=for-the-badge&logo=google-chrome&logoColor=green" alt="website" style="margin-bottom: 5px;" />
 </a>
 <a href="https://coding4vinayak.github.io/" target="_blank">
-  <img src="https://img.shields.io/badge/blog-%231E77B5.svg?&style=for-the-badge&logo=wordpress&logoColor=white" alt="blog" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/blog-%231E77B5.svg?&style=for-the-badge&logo=wordpress&logoColor=red" alt="blog" style="margin-bottom: 5px;" />
 </a>
 
 </div>
@@ -36,6 +34,8 @@
 [![R](https://img.shields.io/badge/R-black?style=for-the-badge&logo=R)](https://github.com/coding4vinayak)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/coding4vinayak)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/coding4vinayak)
+[![NoSQL](https://img.shields.io/badge/Nosql-black?style=for-the-badge&logo=NoSql)](https://github.com/coding4vinayak)
+
 ### ML/DL
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/coding4vinayak)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/coding4vinayak)
