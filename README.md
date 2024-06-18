@@ -101,7 +101,6 @@
 
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge&logo=Matplotlib)](https://matplotlib.org/)
 [![Seaborn](https://img.shields.io/badge/Seaborn-blue?style=for-the-badge&logo=Seaborn)](https://seaborn.pydata.org/)
-[![Plotly](https://img.shields.io/badge/Plotly-blue?style=for-the-badge&logo=Plotly)](https://plotly.com/)
 [![Bokeh](https://img.shields.io/badge/Bokeh-blue?style=for-the-badge&logo=Bokeh)](https://bokeh.org/)
 [![Tableau](https://img.shields.io/badge/Tableau-blue?style=for-the-badge&logo=Tableau)](https://www.tableau.com/)
 [![PowerBI](https://img.shields.io/badge/PowerBI-blue?style=for-the-badge&logo=PowerBI)](https://powerbi.microsoft.com/)
