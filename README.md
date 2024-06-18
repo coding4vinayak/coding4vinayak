@@ -50,7 +50,7 @@
 ### Technologies & Frameworks
 [![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/coding4vinayak)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/coding4vinayak)
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)]
+[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/coding4vinayak)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/coding4vinayak)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://hub.docker.com/u/coding4vinayak)
 
