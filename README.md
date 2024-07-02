@@ -3,7 +3,7 @@
 <p align="center">
     <b>Welcome to my page</b><br><br>
     <i>
-        I'm Vinayak sonawane, and I'm currently learning Data science and Machine learning.<br>
+        I'm Vinayak sonawane, I'm currently learning Data science and Machine learning.<br>
         Open to collaborating on interesting and innovative projects.<br>
     </i><br>
     <h2 align="center">Request a Service</h2>
